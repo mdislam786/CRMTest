@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CRM AddContacts TestSuite]">
+  <test thread-count="5" name="Crm AddContact Test(failed)">
+    <classes>
+      <class name="testcases.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+          <include name="loginpageTitleTest"/>
+        </methods>
+      </class> <!-- testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Crm AddContact Test(failed) -->
+</suite> <!-- Failed suite [CRM AddContacts TestSuite] -->

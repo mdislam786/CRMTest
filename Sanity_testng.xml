@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="CRM AddContacts TestSuite">
+	
+	<listeners>
+		<listener class-name= "extentReportListener.ExtentReporterNG"/>
+	</listeners> 
+	
+  <test name="Crm AddContact Test">
+    <classes>      
+      <class name="testcases.LoginPageTest"/>     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,46 @@
+08-22-2019 [main] INFO  base.TestBase - BeforeMethod
+08-22-2019 [main] INFO  base.TestBase - loginTest
+08-22-2019 [main] INFO  base.TestBase - AfterMethod
+08-22-2019 [main] INFO  base.TestBase - BeforeMethod
+08-22-2019 [main] INFO  base.TestBase - loginpageTitleTest
+08-22-2019 [main] INFO  base.TestBase - AfterMethod
+08-22-2019 [main] INFO  base.TestBase - BeforeMethod
+08-22-2019 [main] INFO  base.TestBase - loginTest
+08-22-2019 [main] INFO  base.TestBase - AfterMethod
+08-22-2019 [main] INFO  base.TestBase - BeforeMethod
+08-22-2019 [main] INFO  base.TestBase - loginpageTitleTest
+08-22-2019 [main] INFO  base.TestBase - AfterMethod
+08-24-2019 [main] INFO  base.TestBase - BeforeMethod
+08-24-2019 [main] INFO  base.TestBase - loginTest
+08-24-2019 [main] INFO  base.TestBase - AfterMethod
+08-24-2019 [main] INFO  base.TestBase - BeforeMethod
+08-24-2019 [main] INFO  base.TestBase - loginpageTitleTest
+08-24-2019 [main] INFO  base.TestBase - AfterMethod
+08-24-2019 [main] INFO  base.TestBase - BeforeMethod
+08-24-2019 [main] INFO  base.TestBase - loginTest
+08-24-2019 [main] INFO  base.TestBase - AfterMethod
+08-24-2019 [main] INFO  base.TestBase - BeforeMethod
+08-24-2019 [main] INFO  base.TestBase - loginpageTitleTest
+08-24-2019 [main] INFO  base.TestBase - AfterMethod
+08-24-2019 [main] INFO  base.TestBase - BeforeMethod
+08-24-2019 [main] INFO  base.TestBase - loginTest
+08-24-2019 [main] INFO  base.TestBase - AfterMethod
+08-24-2019 [main] INFO  base.TestBase - BeforeMethod
+08-24-2019 [main] INFO  base.TestBase - loginpageTitleTest
+08-24-2019 [main] INFO  base.TestBase - AfterMethod
+08-24-2019 [main] INFO  base.TestBase - AddContactPageTest started.
+08-24-2019 [main] INFO  base.TestBase - AddContactPageTest Successfully completed!
+08-24-2019 [main] INFO  base.TestBase - AddContactPageTest started.
+08-24-2019 [main] INFO  base.TestBase - AddContactPageTest Successfully completed!
+08-24-2019 [main] INFO  base.TestBase - verifyAddContactaLabelTest Successfully completed!
+08-24-2019 [main] INFO  base.TestBase - AddContactPageTest Successfully completed!
+08-24-2019 [main] INFO  base.TestBase - verifyHomePageTitleTest Successfully completed!
+08-24-2019 [main] INFO  base.TestBase - verifyWelcomeMessageTest Successfully validated!
+08-26-2019 [main] INFO  base.TestBase - verifyAddContactaLabelTest Successfully completed!
+08-26-2019 [main] INFO  base.TestBase - AddContactPageTest Successfully completed!
+08-30-2019 [main] INFO  base.TestBase - BeforeMethod
+08-30-2019 [main] INFO  base.TestBase - loginTest
+08-30-2019 [main] INFO  base.TestBase - AfterMethod
+08-30-2019 [main] INFO  base.TestBase - BeforeMethod
+08-30-2019 [main] INFO  base.TestBase - loginpageTitleTest
+08-30-2019 [main] INFO  base.TestBase - AfterMethod
